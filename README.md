@@ -1,8 +1,8 @@
-Installation
+<b>Installation:</b></br>
 npm install
 
-Run electron
+<b>Run electron:</b></br>
 npm run start-electron
 
-Run server
+<b>Run server:</b></br>
 npm run start-server
